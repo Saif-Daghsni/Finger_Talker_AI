@@ -12,7 +12,7 @@ The project has two implementations:
 
 ---
 
-Repport link : https://drive.google.com/file/d/15Qdc9kGLfM-vilsBCdXImr4zCZQ4ah59/view?usp=drive_link
+▶️ [Watch the demo video](https://drive.google.com/file/d/1wJ5ZnltoTPqYAb9H9GaGZCDeIPRqPMqL/view?usp=drive_link)
 
-The demo video : https://drive.google.com/file/d/1wJ5ZnltoTPqYAb9H9GaGZCDeIPRqPMqL/view?usp=drive_link
+📖[Read the report](https://drive.google.com/file/d/15Qdc9kGLfM-vilsBCdXImr4zCZQ4ah59/view?usp=drive_link)
 
