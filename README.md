@@ -14,5 +14,6 @@ The project has two implementations:
 
 ▶️ [Watch the demo video](https://drive.google.com/file/d/1wJ5ZnltoTPqYAb9H9GaGZCDeIPRqPMqL/view?usp=drive_link)
 
-📖[Read the report](https://drive.google.com/file/d/15Qdc9kGLfM-vilsBCdXImr4zCZQ4ah59/view?usp=drive_link)
+📖[Read the report](https://drive.google.com/file/d/10KBsJewJ-IDwT56mII2og_S4QaMbtvfw/view?usp=drive_link)
+
 
